@@ -1,0 +1,52 @@
+.contenedor{
+    height: 100%;
+    width: 100%;
+}
+.imagen{
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+   
+}
+
+
+.sup{
+   
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
+    background-color: grey;
+    justify-content: end;
+    z-index: 15;
+    
+}
+.sw{
+    display: inline-block;
+
+}
+.sc{
+    display: inline-block;
+}
+.bate{
+    display: inline-block;
+}
+.hora{
+    display: inline-block;
+    color: rgb(245, 239, 239);
+    align-items: center;
+}
+*{
+    font-family: 'Merriweather', serif;
+    opacity: 1;
+}
+.aleatorio{
+    background-color: red;
+    align-content: center;
+    border-radius: 50%;
+    align-self: end;
+    z-index: 999;
+
+}
+.tiulo{
+    font-family: bold;
+}
